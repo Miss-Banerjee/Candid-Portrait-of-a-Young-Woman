@@ -63,3 +63,12 @@ CFG Scale: 7–12 (adjust for strictness)
 ```
 
 ## 📌 PREVIEW
+<img width="2988" height="4096" alt="Image" src="https://github.com/user-attachments/assets/6aa91acf-8e05-4b69-ad67-39b386d12fc9" />
+
+![Image](https://github.com/user-attachments/assets/f26b2532-515a-4fdd-9753-487b9dcc3e2c)
+
+<img width="2390" height="3276" alt="Image" src="https://github.com/user-attachments/assets/03789fe7-4c1f-45df-b663-4b61f528230e" />
+
+![Image](https://github.com/user-attachments/assets/3bd2c70d-8363-4fe9-8527-cc7e938c8ae7)
+
+![Image](https://github.com/user-attachments/assets/f3e4f19b-0e92-4b7c-b128-61850ea215f6)
