@@ -61,3 +61,5 @@ Sampler: DDIM / Euler a / DPM++ depending on model
 Steps: 20–40
 CFG Scale: 7–12 (adjust for strictness)
 ```
+
+## 📌 PREVIEW
