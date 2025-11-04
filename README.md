@@ -3,7 +3,7 @@
 
 
 > [!TIP]
-> For a faster setup, you can use our one-click installation script.
+> Gemini Ai (PROMPT)
 >
 > ```bash
 > ./install.sh --quick
